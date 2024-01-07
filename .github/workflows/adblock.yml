@@ -36,7 +36,7 @@ jobs:
           echo "Downloading AdGuard Home AIO List block list..."
           curl -s https://raw.githubusercontent.com/hl2guide/AdGuard-Home-AIO-Blocklist/main/aio_blocklist_final.txt -o filter.txt
           grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' > AdguardHOMEAIO.yaml
-          sed -i '/^#/! s/^///g; s/0\.0\.0\.0//g; - DOMAIN,/g' AdguardHOMEAIO.yaml
+          sed -i '/^#/! s/^//g; s/0\.0\.0\.0//g; - DOMAIN,/g' AdguardHOMEAIO.yaml
           sed -i '1i payload:' AdguardHOMEAIO.yaml
           rm -fr AdguardHOMEAIO.yamle filter.txte filter.txt
         
