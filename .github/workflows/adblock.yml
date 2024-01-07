@@ -33,7 +33,7 @@ jobs:
           sed -i '1i payload:' AdguardHOMELIST.yaml
           rm -fr AdguardHOMELIST.yamle filter.txte filter.txt
 
-          cho "Downloading AdGuard Home AIO List block list..."
+          echo "Downloading AdGuard Home AIO List block list..."
           curl -s https://raw.githubusercontent.com/hl2guide/AdGuard-Home-AIO-Blocklist/main/aio_blocklist_final.txt -o filter.txt
           grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' > AdguardHOMEAIO.yaml
           sed -ie '/^#/! s/^/  - DOMAIN,/' AdguardHOMEAIO.yaml
