@@ -19,6 +19,13 @@ jobs:
           sed -i '2,7969d' VPN.yaml
           rm -fr VPN.yamle
 
+          echo "Downloading OISD Big List block list..."
+          curl -s https://big.oisd.nl -o filter.txt
+          grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' > OISDBigList.yaml
+          sed -ie '/^#/! s/^/  - DOMAIN,/' OISDBigList.yaml
+          sed -i '1i payload:' OISDBigList.yaml
+          rm -fr OISDBigList.yamle filter.txte filter.txt
+
           echo "Downloading AdGuardHome DNS Filter List block list..."
           curl -s https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist -o filter.txt
           grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' > AdguardHOMEDNS.yaml
