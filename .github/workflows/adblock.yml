@@ -20,8 +20,7 @@ jobs:
           rm -fr VPN.yamle
 
           echo "Downloading Peter Lowe's List block list..."
-          curl -s https://pgl.yoyo.org/as/serverlist.php?showintro=1 -o filter.txt
-          grep -o filter.txt | grep -v '\*' > PeterList.yaml
+          curl -s https://pgl.yoyo.org/as/serverlist.php?showintro=1 -o PeterList.yaml
           sed -i 's/^127\.0\.0\.1\s/  - DOMAIN,/g' PeterList.yaml
           sed -i '1i payload:' PeterList.yaml
           sed -i '2,90d' PeterList.yaml
