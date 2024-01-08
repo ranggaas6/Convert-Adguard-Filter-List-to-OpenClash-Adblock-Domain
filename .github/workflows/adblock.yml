@@ -26,6 +26,13 @@ jobs:
           sed -i '2,76d' PeterList.yaml
           rm -fr PeterList.yamle
 
+          echo "Downloading StevenBlack - Hosts block list..."
+          curl -s https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts StevenHosts.yaml
+          sed -i 's/^0\.0\.0\.0\s/  - DOMAIN,/g' StevenHosts.yaml
+          sed -i '1i payload:' StevenHosts.yaml
+          sed -i '16,29d' StevenHosts.yaml
+          rm -fr StevenHosts.yamle
+
           echo "Downloading OISD Big List block list..."
           curl -s https://big.oisd.nl -o filter.txt
           grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' > OISDBigList.yaml
