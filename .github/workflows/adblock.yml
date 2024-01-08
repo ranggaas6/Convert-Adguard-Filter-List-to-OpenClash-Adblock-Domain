@@ -23,7 +23,7 @@ jobs:
           curl -s https://pgl.yoyo.org/as/serverlist.php?showintro=1 -o PeterList.yaml
           sed -i 's/^127\.0\.0\.1\s/  - DOMAIN,/g' PeterList.yaml
           sed -i '1i payload:' PeterList.yaml
-          sed -i '92d' VPN.yaml
+          sed -i '2,92d' VPN.yaml
           rm -fr PeterList.yamle
 
           echo "Downloading OISD Big List block list..."
