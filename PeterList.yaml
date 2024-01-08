@@ -1,18 +1,4 @@
 payload:
-# Blocklist for use with hosts files to block ads, trackers, and other nasty things
-#
-# For more information about this list, see: https://pgl.yoyo.org/adservers/
-# ----
-# last updated:   Fri, 05 Jan 2024 09:47:27 GMT
-# entries:        3784
-# format:         hosts (hosts -- in hosts file format)
-# credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# this URL:       https://pgl.yoyo.org/as/serverlist.php?showintro=1
-# Patreon:        https://patreon.com/blocklist
-# other formats:  https://pgl.yoyo.org/adservers/formats.php
-# policy:         https://pgl.yoyo.org/adservers/policy.php
-#
-# start date:    Fri, 06 Jun 2003 00:00:00
   - DOMAIN,1-1ads.com
   - DOMAIN,101com.com
   - DOMAIN,101order.com
