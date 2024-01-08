@@ -30,7 +30,7 @@ jobs:
           curl -s https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -o StevenHosts.yaml
           sed -i 's/^0\.0\.0\.0\s/  - DOMAIN,/g' StevenHosts.yaml
           sed -i '1i payload:' StevenHosts.yaml
-          sed -i '2,38d' StevenHosts.yaml
+          sed -i '2,41d' StevenHosts.yaml
           rm -fr StevenHosts.yamle
 
           echo "Downloading OISD Big List block list..."
