@@ -20,11 +20,10 @@ jobs:
           rm -fr VPN.yamle
 
           echo "Downloading Peter Lowe's List block list..."
-          curl -s https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext -o filter.txt
-          grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' > PeterList.yaml
-          sed -ie '/^#/! s/^/  - DOMAIN,/' PeterList.yaml
-          sed -i '1i payload:' PeterList.yaml
-          rm -fr PeterList.yamle filter.txte filter.txt
+          curl -s https://pgl.yoyo.org/as/serverlist.php?showintro=1 -o PeterList.yaml
+          sed -i 's/^127\.0\.0\.1\s/  - DOMAIN,/g' PeterList.yaml
+          sed -i '15i payload:' PeterList.yaml
+          rm -fr PeterList.yamle
 
           echo "Downloading OISD Big List block list..."
           curl -s https://big.oisd.nl -o filter.txt
