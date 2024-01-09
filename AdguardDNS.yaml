@@ -41877,6 +41877,7 @@ payload:
   - DOMAIN,analytics.urx.io
   - DOMAIN,analytics.vanillaforums.com
   - DOMAIN,analytics.vendemore.com
+  - DOMAIN,analytics.vixcloud.co
   - DOMAIN,analytics.webpushr.com
   - DOMAIN,analytics.websolute.it
   - DOMAIN,analytics.wildtangent.com
@@ -42056,6 +42057,7 @@ payload:
   - DOMAIN,ea.youmaker.com
   - DOMAIN,ec.walkme.com
   - DOMAIN,ecommstats.s3.amazonaws.com
+  - DOMAIN,edge.adobedc.net
   - DOMAIN,edge.bredg.com
   - DOMAIN,eel.transistor.fm
   - DOMAIN,ele26126.jscrambler.com
@@ -42162,6 +42164,7 @@ payload:
   - DOMAIN,jly24aw29n5m-a.akamaihd.net
   - DOMAIN,jtracking-gate.lulusoft.com
   - DOMAIN,k.streamrail.com
+  - DOMAIN,k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
   - DOMAIN,kalstats.kaltura.com
   - DOMAIN,l.fairblocker.com
   - DOMAIN,laurel.macrovision.com
@@ -51403,6 +51406,12 @@ payload:
   - DOMAIN,zzbmxl.xyz
   - DOMAIN,zzyy17.top
   - DOMAIN,zzyy18.top
+  - DOMAIN,tbdwtn.xyz
+  - DOMAIN,judthih.cn
+  - DOMAIN,kzelzfnj.xyz
+  - DOMAIN,bhhzlax.xyz
+  - DOMAIN,iincon.icu
+  - DOMAIN,segoyg.xyz
   - DOMAIN,zzyy19.top
   - DOMAIN,zzyy20.top
   - DOMAIN,01v62.xyz
