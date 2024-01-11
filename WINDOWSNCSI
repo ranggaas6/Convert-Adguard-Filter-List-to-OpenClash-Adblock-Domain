@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,www.msftncsi.com
   - DOMAIN-SUFFIX,www.msftconnecttest.com
   - DOMAIN-SUFFIX,www.msftncsi.com.edgesuite.net
+  - DOMAIN-SUFFIX,ncsi-geo.trafficmanager.net
   - DOMAIN-SUFFIX,dns.msftncsi.com
   - DOMAIN-SUFFIX,activation.sls.microsoft.com
   - DOMAIN-SUFFIX,activation.sls.trafficmanager.net
