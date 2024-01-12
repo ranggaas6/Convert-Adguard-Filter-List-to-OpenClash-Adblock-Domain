@@ -3,7 +3,6 @@ payload:
   - DOMAIN,101com.com
   - DOMAIN,101order.com
   - DOMAIN,180hits.de
-  - DOMAIN,180searchassistant.com
   - DOMAIN,1link2020.com
   - DOMAIN,1rx.io
   - DOMAIN,207.net
@@ -206,6 +205,7 @@ payload:
   - DOMAIN,adclient1.tucows.com
   - DOMAIN,adclixx.net
   - DOMAIN,adcolony.com
+  - DOMAIN,adcomplete.com
   - DOMAIN,adconion.com
   - DOMAIN,adcontent.gamespy.com
   - DOMAIN,adcovery.com
@@ -561,7 +561,6 @@ payload:
   - DOMAIN,ads.pof.com
   - DOMAIN,ads.powweb.com
   - DOMAIN,ads.ppvmedien.de
-  - DOMAIN,ads.primissima.it
   - DOMAIN,ads.printscr.com
   - DOMAIN,ads.prisacom.com
   - DOMAIN,ads.program3.com
@@ -838,7 +837,6 @@ payload:
   - DOMAIN,adv.hwupgrade.it
   - DOMAIN,adv.livedoor.com
   - DOMAIN,adv.mpvc.it
-  - DOMAIN,adv.neverbuy.com
   - DOMAIN,adv.nexthardware.com
   - DOMAIN,adv.webmd.com
   - DOMAIN,adv.wp.pl
@@ -1049,7 +1047,6 @@ payload:
   - DOMAIN,audit.median.hu
   - DOMAIN,audit.webinform.hu
   - DOMAIN,augur.io
-  - DOMAIN,auto-bannertausch.de
   - DOMAIN,automaticflock.com
   - DOMAIN,avalonalbum.com
   - DOMAIN,avazutracking.net
@@ -1745,7 +1742,6 @@ payload:
   - DOMAIN,exchange-it.com
   - DOMAIN,exchangead.com
   - DOMAIN,exchangeclicksonline.com
-  - DOMAIN,exchangedetail.com
   - DOMAIN,exclusivebrass.com
   - DOMAIN,exelate.com
   - DOMAIN,exelator.com
@@ -1938,6 +1934,7 @@ payload:
   - DOMAIN,h0.t.hubspotemail.net
   - DOMAIN,h78xb.pw
   - DOMAIN,habitualhumor.com
+  - DOMAIN,halcyoncanyon.com
   - DOMAIN,haltingbadge.com
   - DOMAIN,hammerhearing.com
   - DOMAIN,handsomehose.com
@@ -2318,7 +2315,6 @@ payload:
   - DOMAIN,mautic.com
   - DOMAIN,max.i12.de
   - DOMAIN,maximiser.net
-  - DOMAIN,maximumcash.com
   - DOMAIN,maxonclick.com
   - DOMAIN,mbs.megaroticlive.com
   - DOMAIN,mcdlks.com
@@ -2940,7 +2936,6 @@ payload:
   - DOMAIN,roar.com
   - DOMAIN,robotreplay.com
   - DOMAIN,rockabox.co
-  - DOMAIN,roia.biz
   - DOMAIN,rok.com.com
   - DOMAIN,rollconnection.com
   - DOMAIN,rose.ixbt.com
