@@ -1181,6 +1181,7 @@ payload:
   - DOMAIN,bigreal.org
   - DOMAIN,bikesboard.com
   - DOMAIN,billboard.cz
+  - DOMAIN,birthdaybelief.com
   - DOMAIN,bitmedianetwork.com
   - DOMAIN,bizible.com
   - DOMAIN,bizographics.com
@@ -1447,6 +1448,7 @@ payload:
   - DOMAIN,completecabbage.com
   - DOMAIN,complextoad.com
   - DOMAIN,comprabanner.it
+  - DOMAIN,concernedchange.com
   - DOMAIN,concernedcondition.com
   - DOMAIN,conditionchange.com
   - DOMAIN,conductrics.com
@@ -2685,6 +2687,7 @@ payload:
   - DOMAIN,pixel.yabidos.com
   - DOMAIN,placed.com
   - DOMAIN,placeframe.com
+  - DOMAIN,placidactivity.com
   - DOMAIN,plausibleio.workers.dev
   - DOMAIN,play4traffic.com
   - DOMAIN,playhaven.com
