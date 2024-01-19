@@ -55,7 +55,6 @@ payload:
   - DOMAIN,abacho.net
   - DOMAIN,abackafterthought.com
   - DOMAIN,abackchain.com
-  - DOMAIN,abackframe.com
   - DOMAIN,abandonedaction.com
   - DOMAIN,abc-ads.com
   - DOMAIN,ablink.comms.trainline.com
@@ -800,7 +799,6 @@ payload:
   - DOMAIN,adsrv2.swidnica24.pl
   - DOMAIN,adsrvr.org
   - DOMAIN,adstacks.in
-  - DOMAIN,adstanding.com
   - DOMAIN,adstat.4u.pl
   - DOMAIN,adstest.weather.com
   - DOMAIN,adsupply.com
@@ -1565,7 +1563,6 @@ payload:
   - DOMAIN,dc-storm.com
   - DOMAIN,de17a.com
   - DOMAIN,deadpangate.com
-  - DOMAIN,deadpanmarble.com
   - DOMAIN,dealdotcom.com
   - DOMAIN,debonairway.com
   - DOMAIN,debtbusterloans.com
@@ -1670,7 +1667,6 @@ payload:
   - DOMAIN,eiv.baidu.com
   - DOMAIN,ejyymghi.com
   - DOMAIN,elasticchange.com
-  - DOMAIN,elasticducks.com
   - DOMAIN,elderlyscissors.com
   - DOMAIN,elderlytown.com
   - DOMAIN,elephantqueue.com
@@ -1744,6 +1740,7 @@ payload:
   - DOMAIN,exchange-it.com
   - DOMAIN,exchangead.com
   - DOMAIN,exchangeclicksonline.com
+  - DOMAIN,exchangedetail.com
   - DOMAIN,exclusivebrass.com
   - DOMAIN,exelate.com
   - DOMAIN,exelator.com
@@ -2500,6 +2497,7 @@ payload:
   - DOMAIN,newnet.qsrch.com
   - DOMAIN,newnudecash.com
   - DOMAIN,newopenx.detik.com
+  - DOMAIN,newsadsppush.com
   - DOMAIN,newsletter-link.com
   - DOMAIN,newstarads.com
   - DOMAIN,newt1.adultadworld.com
@@ -2817,7 +2815,6 @@ payload:
   - DOMAIN,quantummetric.com
   - DOMAIN,quarterbean.com
   - DOMAIN,quarterserver.de
-  - DOMAIN,questaffiliates.net
   - DOMAIN,quickkoala.io
   - DOMAIN,quicksandear.com
   - DOMAIN,quietknowledge.com
@@ -3012,7 +3009,6 @@ payload:
   - DOMAIN,seadform.net
   - DOMAIN,searchmarketing.com
   - DOMAIN,searchramp.com
-  - DOMAIN,seashoreturn.com
   - DOMAIN,secre.jp
   - DOMAIN,secretivecub.com
   - DOMAIN,secretspiders.com
@@ -3752,7 +3748,6 @@ payload:
   - DOMAIN,yieldmo.com
   - DOMAIN,yieldoptimizer.com
   - DOMAIN,yieldtraffic.com
-  - DOMAIN,yldbt.com
   - DOMAIN,ymetrica1.com
   - DOMAIN,yoads.net
   - DOMAIN,yoggrt.com
