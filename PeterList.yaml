@@ -55,6 +55,7 @@ payload:
   - DOMAIN,abacho.net
   - DOMAIN,abackafterthought.com
   - DOMAIN,abackchain.com
+  - DOMAIN,abackframe.com
   - DOMAIN,abandonedaction.com
   - DOMAIN,abc-ads.com
   - DOMAIN,ablink.comms.trainline.com
@@ -134,7 +135,6 @@ payload:
   - DOMAIN,ad.mynetreklam.com.streamprovider.net
   - DOMAIN,ad.nachtagenten.de
   - DOMAIN,ad.nettvservices.com
-  - DOMAIN,ad.nozonedata.com
   - DOMAIN,ad.nttnavi.co.jp
   - DOMAIN,ad.nwt.cz
   - DOMAIN,ad.period-calendar.com
@@ -459,7 +459,6 @@ payload:
   - DOMAIN,ads.gamigo.de
   - DOMAIN,ads.gaming-universe.de
   - DOMAIN,ads.gaming1.com
-  - DOMAIN,ads.geekswithblogs.net
   - DOMAIN,ads.getlucky.com
   - DOMAIN,ads.gld.dk
   - DOMAIN,ads.gmodules.com
@@ -477,7 +476,6 @@ payload:
   - DOMAIN,ads.heartlight.org
   - DOMAIN,ads.hollywood.com
   - DOMAIN,ads.horsehero.com
-  - DOMAIN,ads.horyzon-media.com
   - DOMAIN,ads.hsoub.com
   - DOMAIN,ads.ibest.com.br
   - DOMAIN,ads.ibryte.com
@@ -799,6 +797,7 @@ payload:
   - DOMAIN,adsrv2.swidnica24.pl
   - DOMAIN,adsrvr.org
   - DOMAIN,adstacks.in
+  - DOMAIN,adstanding.com
   - DOMAIN,adstat.4u.pl
   - DOMAIN,adstest.weather.com
   - DOMAIN,adsupply.com
@@ -1563,6 +1562,7 @@ payload:
   - DOMAIN,dc-storm.com
   - DOMAIN,de17a.com
   - DOMAIN,deadpangate.com
+  - DOMAIN,deadpanmarble.com
   - DOMAIN,dealdotcom.com
   - DOMAIN,debonairway.com
   - DOMAIN,debtbusterloans.com
@@ -1927,6 +1927,7 @@ payload:
   - DOMAIN,grouchybrothers.com
   - DOMAIN,groundtruth.com
   - DOMAIN,gscontxt.net
+  - DOMAIN,gstaticx.com
   - DOMAIN,guardeddirection.com
   - DOMAIN,guardedschool.com
   - DOMAIN,gunggo.com
@@ -3011,6 +3012,7 @@ payload:
   - DOMAIN,seadform.net
   - DOMAIN,searchmarketing.com
   - DOMAIN,searchramp.com
+  - DOMAIN,seashoreturn.com
   - DOMAIN,secre.jp
   - DOMAIN,secretivecub.com
   - DOMAIN,secretspiders.com
@@ -3750,6 +3752,7 @@ payload:
   - DOMAIN,yieldmo.com
   - DOMAIN,yieldoptimizer.com
   - DOMAIN,yieldtraffic.com
+  - DOMAIN,yldbt.com
   - DOMAIN,ymetrica1.com
   - DOMAIN,yoads.net
   - DOMAIN,yoggrt.com
