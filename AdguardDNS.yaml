@@ -36717,6 +36717,7 @@ payload:
   - DOMAIN,d7jpk19dne0nn.cloudfront.net
   - DOMAIN,d7po8h5dek3wm.cloudfront.net
   - DOMAIN,d7tst6bnt99p2.cloudfront.net
+  - DOMAIN,d85wutc1n854v.cloudfront.net
   - DOMAIN,d8a69dni6x2i5.cloudfront.net
   - DOMAIN,d8cxnvx3e75nn.cloudfront.net
   - DOMAIN,d8dcj5iif1uz.cloudfront.net
@@ -44329,6 +44330,7 @@ payload:
   - DOMAIN,amplify.outbrain.com
   - DOMAIN,ams-pageview-public.s3.amazonaws.com
   - DOMAIN,analyse.bcovery.com
+  - DOMAIN,analyse.lnearn.com
   - DOMAIN,analytic.rollout.io
   - DOMAIN,analytic.xingcloud.com
   - DOMAIN,analyticcdn.globalmailer.com
@@ -45071,6 +45073,7 @@ payload:
   - DOMAIN,usersegment.wpdigital.net
   - DOMAIN,vdrn.redplum.com
   - DOMAIN,vercel-vitals.axiom.co
+  - DOMAIN,verify.lnearn.com
   - DOMAIN,vortex.data.microsoft.com
   - DOMAIN,vst.sibnet.ru
   - DOMAIN,vstat.borderlessbd.com
@@ -58170,6 +58173,12 @@ payload:
   - DOMAIN,qqainj.cn
   - DOMAIN,yzmcok.xyz
   - DOMAIN,4imk5.online
+  - DOMAIN,niticl.icu
+  - DOMAIN,chgpuxim.xyz
+  - DOMAIN,dmdnlr.xyz
+  - DOMAIN,kaurieseluxate.com
+  - DOMAIN,lioyfmp.cn
+  - DOMAIN,xhgpuxim.xyz
   - DOMAIN,zzyy19.top
   - DOMAIN,zzyy20.top
   - DOMAIN,01v62.xyz
@@ -62172,7 +62181,6 @@ payload:
   - DOMAIN,v1.phb123.com
   - DOMAIN,v1.taksh.cn
   - DOMAIN,v1.wphonelife.com
-  - DOMAIN,ve.kj-cy.cn
   - DOMAIN,vip.panggugu.com
   - DOMAIN,vv1.pyhfxdm.cn
   - DOMAIN,vvv.ieduw.com
