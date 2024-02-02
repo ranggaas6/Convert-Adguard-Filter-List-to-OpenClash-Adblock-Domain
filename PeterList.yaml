@@ -3,6 +3,7 @@ payload:
   - DOMAIN,101com.com
   - DOMAIN,101order.com
   - DOMAIN,180hits.de
+  - DOMAIN,180searchassistant.com
   - DOMAIN,1link2020.com
   - DOMAIN,1rx.io
   - DOMAIN,207.net
@@ -1081,12 +1082,10 @@ payload:
   - DOMAIN,banner.nixnet.cz
   - DOMAIN,banner.noblepoker.com
   - DOMAIN,banner.northsky.com
-  - DOMAIN,banner.penguin.cz
   - DOMAIN,banner.rbc.ru
   - DOMAIN,banner.reinstil.de
   - DOMAIN,banner.tanto.de
   - DOMAIN,banner.titan-dsl.de
-  - DOMAIN,banner.webmersion.com
   - DOMAIN,banner10.zetasystem.dk
   - DOMAIN,bannerads.de
   - DOMAIN,bannerboxes.com
@@ -1595,7 +1594,6 @@ payload:
   - DOMAIN,digital-ads.s3.amazonaws.com
   - DOMAIN,digitalmerkat.com
   - DOMAIN,direct-events-collector.spot.im
-  - DOMAIN,direct-xxx-access.com
   - DOMAIN,directaclick.com
   - DOMAIN,directleads.com
   - DOMAIN,directorym.com
@@ -1667,6 +1665,7 @@ payload:
   - DOMAIN,eiv.baidu.com
   - DOMAIN,ejyymghi.com
   - DOMAIN,elasticchange.com
+  - DOMAIN,elasticducks.com
   - DOMAIN,elderlyscissors.com
   - DOMAIN,elderlytown.com
   - DOMAIN,elephantqueue.com
@@ -2952,7 +2951,6 @@ payload:
   - DOMAIN,rtb.gumgum.com
   - DOMAIN,rtbadzesto.com
   - DOMAIN,rtbflairads.com
-  - DOMAIN,rtbidhost.com
   - DOMAIN,rtbplatform.net
   - DOMAIN,rtbpop.com
   - DOMAIN,rtbpopd.com
@@ -3352,6 +3350,7 @@ payload:
   - DOMAIN,terriblethumb.com
   - DOMAIN,text-link-ads.com
   - DOMAIN,textad.sexsearch.com
+  - DOMAIN,textads.biz
   - DOMAIN,textlinks.com
   - DOMAIN,tfag.de
   - DOMAIN,the-ozone-project.com
@@ -3455,7 +3454,6 @@ payload:
   - DOMAIN,tracking.42-01pr5-osm-secure.co.uk
   - DOMAIN,tracking.5-47737-bi.co.uk
   - DOMAIN,tracking.epicgames.com
-  - DOMAIN,tracking.exipure.com
   - DOMAIN,tracking.hyros.com
   - DOMAIN,tracking.ibxlink.com
   - DOMAIN,tracking.intentsify.io
