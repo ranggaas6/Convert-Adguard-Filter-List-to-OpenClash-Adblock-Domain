@@ -2124,6 +2124,8 @@ payload:
   - DOMAIN,joetec.net
   - DOMAIN,joyoussurprise.com
   - DOMAIN,js-agent.newrelic.com
+  - DOMAIN,js-api.otherlevels.com
+  - DOMAIN,js-tags.otherlevels.com
   - DOMAIN,js.iterable.com
   - DOMAIN,js.users.51.la
   - DOMAIN,jsecoin.com
