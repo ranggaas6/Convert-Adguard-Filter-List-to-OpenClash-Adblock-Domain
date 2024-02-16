@@ -746,7 +746,6 @@ payload:
   - DOMAIN,adserver.twitpic.com
   - DOMAIN,adserver.virginmedia.com
   - DOMAIN,adserver.waggonerguide.com
-  - DOMAIN,adserver.yahoo.com
   - DOMAIN,adserver01.de
   - DOMAIN,adserver1.mindshare.de
   - DOMAIN,adserver2.mindshare.de
@@ -1042,6 +1041,7 @@ payload:
   - DOMAIN,audit.median.hu
   - DOMAIN,audit.webinform.hu
   - DOMAIN,augur.io
+  - DOMAIN,auto-bannertausch.de
   - DOMAIN,automaticflock.com
   - DOMAIN,avalonalbum.com
   - DOMAIN,avazutracking.net
@@ -1827,7 +1827,6 @@ payload:
   - DOMAIN,freebanner.com
   - DOMAIN,freecounterstat.com
   - DOMAIN,freelogs.com
-  - DOMAIN,freeonlineusers.com
   - DOMAIN,freepay.com
   - DOMAIN,freeskreen.com
   - DOMAIN,freestats.com
@@ -2127,6 +2126,7 @@ payload:
   - DOMAIN,js.users.51.la
   - DOMAIN,jsecoin.com
   - DOMAIN,jsrdn.com
+  - DOMAIN,jubilantglimmer.com
   - DOMAIN,juicyads.com
   - DOMAIN,juicyads.me
   - DOMAIN,jumptap.com
@@ -2832,7 +2832,6 @@ payload:
   - DOMAIN,raac33.net
   - DOMAIN,rabbitrifle.com
   - DOMAIN,radar.cedexis.com
-  - DOMAIN,radarurl.com
   - DOMAIN,radiate.com
   - DOMAIN,radiateprose.com
   - DOMAIN,rads.realadmin.pl
