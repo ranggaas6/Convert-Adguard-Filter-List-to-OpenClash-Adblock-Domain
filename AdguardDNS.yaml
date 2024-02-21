@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN,reonews.pl
+  - DOMAIN,reomanager.pl
   - DOMAIN,adx.ws
   - DOMAIN,kerryfluence.com
   - DOMAIN,fxhngjdubf.xyz
@@ -42614,6 +42616,7 @@ payload:
   - DOMAIN,wizaly.com
   - DOMAIN,affex.org
   - DOMAIN,tagman.britishairways.com
+  - DOMAIN,analytics.b2.ai
   - DOMAIN,tracking.ai.rakuten.co.jp
   - DOMAIN,supportmetrics.apple.com
   - DOMAIN,securemvt.apple.com
@@ -51096,6 +51099,7 @@ payload:
   - DOMAIN,adfly.vn
   - DOMAIN,adi.vcmedia.vn
   - DOMAIN,adnetwork.vn
+  - DOMAIN,adop.asia
   - DOMAIN,adp.vnecdn.net
   - DOMAIN,ads-admin.hubs.vn
   - DOMAIN,ads-platform.zalo.me
@@ -51564,6 +51568,7 @@ payload:
   - DOMAIN,bi.vhost.vn
   - DOMAIN,bidgear-syndication.com
   - DOMAIN,btrack.homedy.com
+  - DOMAIN,bubblyzucchini.com
   - DOMAIN,campaign.gitiho.com
   - DOMAIN,cdn-ads.thesaigontimes.vn
   - DOMAIN,cdn.api-connect.io
@@ -51632,6 +51637,7 @@ payload:
   - DOMAIN,log-dttc.sggp.org.vn
   - DOMAIN,log-en.nhandan.vn
   - DOMAIN,log-en.sggp.org.vn
+  - DOMAIN,log.247post.vn
   - DOMAIN,log.anninhthudo.vn
   - DOMAIN,log.baobackan.com.vn
   - DOMAIN,log.baocaobang.vn
@@ -51868,6 +51874,7 @@ payload:
   - DOMAIN,widget.kyna.vn
   - DOMAIN,xads.joboko.com
   - DOMAIN,xmadsapi.joboko.com
+  - DOMAIN,za.agiay.vn
   - DOMAIN,zigzag.vn
   - DOMAIN,0088shop.com
   - DOMAIN,009855.com
@@ -52345,6 +52352,7 @@ payload:
   - DOMAIN,dichvucong.tgovn.cc
   - DOMAIN,dichvucong.vgovn.net
   - DOMAIN,dichvucong.xgovn.net
+  - DOMAIN,dichvucong.zvgov.com
   - DOMAIN,dichvucongbaohiemxahoi.com
   - DOMAIN,dichvudaohantindung.com
   - DOMAIN,dichvunhantien-eu.org
@@ -55976,6 +55984,11 @@ payload:
   - DOMAIN,fmfnrf.xyz
   - DOMAIN,veaiyl.icu
   - DOMAIN,dxrnksm.xyz
+  - DOMAIN,heapz.cyou
+  - DOMAIN,p0v2ni.cn
+  - DOMAIN,ddielv.cn
+  - DOMAIN,cvnxetmq.xyz
+  - DOMAIN,shuocyw.cn
   - DOMAIN,01v62.xyz
   - DOMAIN,052db.website
   - DOMAIN,053h94.com
