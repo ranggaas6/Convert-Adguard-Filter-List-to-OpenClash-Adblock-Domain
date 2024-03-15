@@ -4,12 +4,10 @@ payload:
   - DOMAIN,101order.com
   - DOMAIN,180hits.de
   - DOMAIN,180searchassistant.com
-  - DOMAIN,1link2020.com
   - DOMAIN,1rx.io
   - DOMAIN,207.net
   - DOMAIN,247media.com
   - DOMAIN,24log.com
-  - DOMAIN,24pm-affiliation.com
   - DOMAIN,2mdn.net
   - DOMAIN,2o7.net
   - DOMAIN,2znp09oa.com
@@ -712,7 +710,6 @@ payload:
   - DOMAIN,adserver.echdk.pl
   - DOMAIN,adserver.friendfinder.com
   - DOMAIN,adserver.generationiron.com
-  - DOMAIN,adserver.html.it
   - DOMAIN,adserver.hwupgrade.it
   - DOMAIN,adserver.ilango.de
   - DOMAIN,adserver.industryarena.com
@@ -888,7 +885,6 @@ payload:
   - DOMAIN,affiliate.treated.com
   - DOMAIN,affiliatefuture.com
   - DOMAIN,affiliates.allposters.com
-  - DOMAIN,affiliates.babylon.com
   - DOMAIN,affiliates.digitalriver.com
   - DOMAIN,affiliates.globat.com
   - DOMAIN,affiliates.rozetka.com.ua
@@ -1657,7 +1653,6 @@ payload:
   - DOMAIN,eiv.baidu.com
   - DOMAIN,ejyymghi.com
   - DOMAIN,elasticchange.com
-  - DOMAIN,elasticducks.com
   - DOMAIN,elderlyscissors.com
   - DOMAIN,elderlytown.com
   - DOMAIN,elephantqueue.com
@@ -1743,7 +1738,6 @@ payload:
   - DOMAIN,exosrv.com
   - DOMAIN,experianmarketingservices.digital
   - DOMAIN,explorads.com
-  - DOMAIN,expmediadirect1.com
   - DOMAIN,exponea.com
   - DOMAIN,exponential.com
   - DOMAIN,express-submit.de
@@ -2642,6 +2636,7 @@ payload:
   - DOMAIN,pcash.imlive.com
   - DOMAIN,peep-auktion.de
   - DOMAIN,peer39.com
+  - DOMAIN,pennyweb.com
   - DOMAIN,pepperjamnetwork.com
   - DOMAIN,perceivequarter.com
   - DOMAIN,percentmobile.com
@@ -2727,7 +2722,6 @@ payload:
   - DOMAIN,primetime.net
   - DOMAIN,privatecash.com
   - DOMAIN,prmtracking.com
-  - DOMAIN,pro-advertising.com
   - DOMAIN,pro-market.net
   - DOMAIN,probablepartner.com
   - DOMAIN,processplantation.com
@@ -2847,7 +2841,6 @@ payload:
   - DOMAIN,ratings.lycos.com
   - DOMAIN,rayjump.com
   - DOMAIN,rcadserver.com
-  - DOMAIN,re-directme.com
   - DOMAIN,reachjunction.com
   - DOMAIN,reactx.com
   - DOMAIN,readgoldfish.com
