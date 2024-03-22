@@ -4,10 +4,12 @@ payload:
   - DOMAIN,101order.com
   - DOMAIN,180hits.de
   - DOMAIN,180searchassistant.com
+  - DOMAIN,1link2020.com
   - DOMAIN,1rx.io
   - DOMAIN,207.net
   - DOMAIN,247media.com
   - DOMAIN,24log.com
+  - DOMAIN,24pm-affiliation.com
   - DOMAIN,2mdn.net
   - DOMAIN,2o7.net
   - DOMAIN,2znp09oa.com
@@ -774,7 +776,6 @@ payload:
   - DOMAIN,adsmogo.com
   - DOMAIN,adsnative.com
   - DOMAIN,adsoftware.com
-  - DOMAIN,adsoldier.com
   - DOMAIN,adsolut.in
   - DOMAIN,adspeed.net
   - DOMAIN,adspirit.de
@@ -808,7 +809,6 @@ payload:
   - DOMAIN,adtegrity.net
   - DOMAIN,adthis.com
   - DOMAIN,adthrive.com
-  - DOMAIN,adthurst.com
   - DOMAIN,adtiger.de
   - DOMAIN,adtilt.com
   - DOMAIN,adtng.com
@@ -885,6 +885,7 @@ payload:
   - DOMAIN,affiliate.treated.com
   - DOMAIN,affiliatefuture.com
   - DOMAIN,affiliates.allposters.com
+  - DOMAIN,affiliates.babylon.com
   - DOMAIN,affiliates.digitalriver.com
   - DOMAIN,affiliates.globat.com
   - DOMAIN,affiliates.rozetka.com.ua
@@ -2937,7 +2938,6 @@ payload:
   - DOMAIN,rtbpop.com
   - DOMAIN,rtbpopd.com
   - DOMAIN,rtmark.net
-  - DOMAIN,rtpdn11.com
   - DOMAIN,rtxplatform.com
   - DOMAIN,ru4.com
   - DOMAIN,rubiconproject.com
@@ -3246,14 +3246,12 @@ payload:
   - DOMAIN,supertop100.com
   - DOMAIN,supply.colossusssp.com
   - DOMAIN,supportwaves.com
-  - DOMAIN,surfmusik-adserver.de
   - DOMAIN,surveygizmobeacon.s3.amazonaws.com
   - DOMAIN,sw88.espn.com
   - DOMAIN,swan-swan-goose.com
   - DOMAIN,swankysquare.com
   - DOMAIN,swimslope.com
   - DOMAIN,swingslip.com
-  - DOMAIN,swordfishdc.com
   - DOMAIN,swordgoose.com
   - DOMAIN,synonymoussticks.com
   - DOMAIN,t.appsflyer.com

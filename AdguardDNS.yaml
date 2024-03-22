@@ -697,6 +697,7 @@ payload:
   - DOMAIN,hub.fghtem.com
   - DOMAIN,adrunnr.com
   - DOMAIN,samsungtvads.com
+  - DOMAIN,d2psma0az3acui.cloudfront.net
   - DOMAIN,rec.deezer.com
   - DOMAIN,ads.greengeeks.com
   - DOMAIN,d1rr5z16sjcy10.cloudfront.net
@@ -13803,6 +13804,7 @@ payload:
   - DOMAIN,geasefloria.com
   - DOMAIN,geazjxqwbr.com
   - DOMAIN,gebadu.com
+  - DOMAIN,geckad.com
   - DOMAIN,geckibou.com
   - DOMAIN,gecl.xyz
   - DOMAIN,geddshippy.com
@@ -37753,6 +37755,7 @@ payload:
   - DOMAIN,hotelscombined.com.au
   - DOMAIN,hprofits.com
   - DOMAIN,httpool.com
+  - DOMAIN,hypelab.com
   - DOMAIN,hyros.com
   - DOMAIN,ibannerexchange.com
   - DOMAIN,ibillboard.com
@@ -38163,7 +38166,6 @@ payload:
   - DOMAIN,statsperformdev.com
   - DOMAIN,stocker.bonnint.net
   - DOMAIN,stratos.blue
-  - DOMAIN,streamate.com
   - DOMAIN,streamdefence.com
   - DOMAIN,strikead.com
   - DOMAIN,strossle.com
@@ -38315,6 +38317,7 @@ payload:
   - DOMAIN,googleadservices-cn.com
   - DOMAIN,googleadsserving.cn
   - DOMAIN,googlevads-cn.com
+  - DOMAIN,2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
   - DOMAIN,ad.lgappstv.com
   - DOMAIN,ad.nettvservices.com
   - DOMAIN,ads.samsung.com
@@ -50535,6 +50538,7 @@ payload:
   - DOMAIN,7b9de.v.fwmrm.net
   - DOMAIN,ads.dugwood.com
   - DOMAIN,adserver.icimedias.ca
+  - DOMAIN,bibincom.com
   - DOMAIN,smart-below.com
   - DOMAIN,ad1.girls-affiliate.com
   - DOMAIN,manga.boy.jp
@@ -57500,6 +57504,10 @@ payload:
   - DOMAIN,actitat.com
   - DOMAIN,dmpqjn.xyz
   - DOMAIN,qzozsa.xyz
+  - DOMAIN,oxvlxwz.xyz
+  - DOMAIN,wingsurf.cn
+  - DOMAIN,dataryon.com
+  - DOMAIN,zfzys.top
   - DOMAIN,zopuqv.icu
   - DOMAIN,zsjpi.cn
   - DOMAIN,zttuvj.xyz
