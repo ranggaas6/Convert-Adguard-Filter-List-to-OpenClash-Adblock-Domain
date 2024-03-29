@@ -560,7 +560,6 @@ payload:
   - DOMAIN,ads.prisacom.com
   - DOMAIN,ads.program3.com
   - DOMAIN,ads.psd2html.com
-  - DOMAIN,ads.quasaraffiliates.com
   - DOMAIN,ads.quoka.de
   - DOMAIN,ads.radialserver.com
   - DOMAIN,ads.radio1.lv
@@ -825,7 +824,6 @@ payload:
   - DOMAIN,adv.donejty.pl
   - DOMAIN,adv.freeonline.it
   - DOMAIN,adv.hwupgrade.it
-  - DOMAIN,adv.livedoor.com
   - DOMAIN,adv.mpvc.it
   - DOMAIN,adv.nexthardware.com
   - DOMAIN,adv.webmd.com
@@ -3246,6 +3244,7 @@ payload:
   - DOMAIN,supertop100.com
   - DOMAIN,supply.colossusssp.com
   - DOMAIN,supportwaves.com
+  - DOMAIN,surfmusik-adserver.de
   - DOMAIN,surveygizmobeacon.s3.amazonaws.com
   - DOMAIN,sw88.espn.com
   - DOMAIN,swan-swan-goose.com
