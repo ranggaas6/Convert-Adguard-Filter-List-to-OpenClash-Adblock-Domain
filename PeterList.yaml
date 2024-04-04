@@ -297,6 +297,7 @@ payload:
   - DOMAIN,admob.com
   - DOMAIN,admonitor.com
   - DOMAIN,adn.lrb.co.uk
+  - DOMAIN,adnami.io
   - DOMAIN,adnet.asahi.com
   - DOMAIN,adnet.biz
   - DOMAIN,adnet.de
@@ -1049,6 +1050,8 @@ payload:
   - DOMAIN,ay.delivery
   - DOMAIN,aztracking.net
   - DOMAIN,b-s.tercept.com
+  - DOMAIN,b.videoamp.com
+  - DOMAIN,b3.videoamp.com
   - DOMAIN,ba.afl.rakuten.co.jp
   - DOMAIN,backbeatmedia.com
   - DOMAIN,balloontexture.com
@@ -3584,7 +3587,6 @@ payload:
   - DOMAIN,vidcpm.com
   - DOMAIN,video-stats.video.google.com
   - DOMAIN,videoadex.com
-  - DOMAIN,videoamp.com
   - DOMAIN,videoegg.com
   - DOMAIN,videostats.kakao.com
   - DOMAIN,vidible.tv
