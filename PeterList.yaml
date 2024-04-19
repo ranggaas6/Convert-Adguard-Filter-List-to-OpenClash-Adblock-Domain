@@ -1403,7 +1403,6 @@ payload:
   - DOMAIN,cloisteredhydrant.com
   - DOMAIN,closedcows.com
   - DOMAIN,cloudflareinsights.com
-  - DOMAIN,cloudiq.com
   - DOMAIN,clrstm.com
   - DOMAIN,cluster.adultworld.com
   - DOMAIN,clustrmaps.com
@@ -2371,6 +2370,7 @@ payload:
   - DOMAIN,mkto-ab410147.com
   - DOMAIN,mktoresp.com
   - DOMAIN,ml314.com
+  - DOMAIN,mlm.de
   - DOMAIN,mlsend.com
   - DOMAIN,mltrk.io
   - DOMAIN,mmismm.com
@@ -2589,7 +2589,6 @@ payload:
   - DOMAIN,oxen.hillcountrytexas.com
   - DOMAIN,p-n.io
   - DOMAIN,p.nag.ru
-  - DOMAIN,paddleangle.com
   - DOMAIN,padsbrown.com
   - DOMAIN,pagead.l.google.com
   - DOMAIN,pagefair.com
@@ -2970,7 +2969,6 @@ payload:
   - DOMAIN,scorecardresearch.com
   - DOMAIN,scratch2cash.com
   - DOMAIN,screechingfurniture.com
-  - DOMAIN,screechingslip.com
   - DOMAIN,screechingstocking.com
   - DOMAIN,screechingstove.com
   - DOMAIN,scripte-monster.de
@@ -3014,7 +3012,6 @@ payload:
   - DOMAIN,shakegoldfish.com
   - DOMAIN,shakesuggestion.com
   - DOMAIN,shakytaste.com
-  - DOMAIN,shareadspace.com
   - DOMAIN,shareasale.com
   - DOMAIN,sharethrough.com
   - DOMAIN,sharppatch.com
@@ -3551,7 +3548,6 @@ payload:
   - DOMAIN,vengefulgrass.com
   - DOMAIN,ventivmedia.com
   - DOMAIN,venturead.com
-  - DOMAIN,verblife-5.co
   - DOMAIN,vericlick.com
   - DOMAIN,vertamedia.com
   - DOMAIN,verticalmass.com
