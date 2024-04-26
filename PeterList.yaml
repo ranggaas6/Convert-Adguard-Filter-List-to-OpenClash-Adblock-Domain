@@ -590,7 +590,6 @@ payload:
   - DOMAIN,ads.suomiautomaatti.com
   - DOMAIN,ads.supplyframe.com
   - DOMAIN,ads.syscdn.de
-  - DOMAIN,ads.tahono.com
   - DOMAIN,ads.themovienation.com
   - DOMAIN,ads.thestar.com
   - DOMAIN,ads.thrillsaffiliates.com
@@ -2117,7 +2116,6 @@ payload:
   - DOMAIN,kanoodle.com
   - DOMAIN,kargo.com
   - DOMAIN,karonty.com
-  - DOMAIN,kesmatic.com
   - DOMAIN,keymedia.hu
   - DOMAIN,kindads.com
   - DOMAIN,kissmetrics.com
@@ -3423,7 +3421,6 @@ payload:
   - DOMAIN,tracking.olx-st.com
   - DOMAIN,tracking.orixa-media.com
   - DOMAIN,tracking.shopstyle.com
-  - DOMAIN,tracking.theoceanac.online
   - DOMAIN,tracking.thinkabt.com
   - DOMAIN,tracking.utlservice.com
   - DOMAIN,tracking.wetter.at
