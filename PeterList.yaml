@@ -990,6 +990,7 @@ payload:
   - DOMAIN,appsflyer.com
   - DOMAIN,aps.hearstnp.com
   - DOMAIN,apsalar.com
+  - DOMAIN,aptabase.com
   - DOMAIN,apture.com
   - DOMAIN,apu.samsungelectronics.com
   - DOMAIN,aquaticanswer.com
@@ -3507,6 +3508,7 @@ payload:
   - DOMAIN,unbecominglamp.com
   - DOMAIN,understoodocean.com
   - DOMAIN,undertone.com
+  - DOMAIN,unidentifiedanalytics.web.app
   - DOMAIN,unknowntray.com
   - DOMAIN,unrulymedia.com
   - DOMAIN,untd.com
