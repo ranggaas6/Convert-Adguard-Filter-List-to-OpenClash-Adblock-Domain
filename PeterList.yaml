@@ -1002,7 +1002,6 @@ payload:
   - DOMAIN,ard.xxxblackbook.com
   - DOMAIN,argyresthia.com
   - DOMAIN,aromamirror.com
-  - DOMAIN,artisany.net
   - DOMAIN,as.webmd.com
   - DOMAIN,as2.adserverhd.com
   - DOMAIN,aserv.motorsgate.com
@@ -1755,7 +1754,6 @@ payload:
   - DOMAIN,farethief.com
   - DOMAIN,farmergoldfish.com
   - DOMAIN,fascinatedfeather.com
-  - DOMAIN,fast-redirecting.com
   - DOMAIN,fastclick.com
   - DOMAIN,fastclick.com.edgesuite.net
   - DOMAIN,fastclick.net
@@ -3342,7 +3340,6 @@ payload:
   - DOMAIN,tm.br.de
   - DOMAIN,tnkexchange.com
   - DOMAIN,tns-counter.ru
-  - DOMAIN,tntclix.co.uk
   - DOMAIN,toothbrushnote.com
   - DOMAIN,top-casting-termine.de
   - DOMAIN,top-site-list.com
@@ -3358,6 +3355,7 @@ payload:
   - DOMAIN,toplista.mw.hu
   - DOMAIN,toplistcity.com
   - DOMAIN,topsir.com
+  - DOMAIN,topsite.lv
   - DOMAIN,topsites.com.br
   - DOMAIN,topstats.com
   - DOMAIN,totemcash.com
